@@ -1,0 +1,32 @@
+.formAddRegister {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 25 px;
+}
+.inputForm{
+    margin-top: 10px;
+    border: solid 2px black;
+}
+
+.labelForm {
+    font-size: 15px;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+.toggleIngreso {
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.toggleEgreso{
+   
+    margin-left: 20px;
+}
+
+
+.buttonGuardar {
+    font-size: 15px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
